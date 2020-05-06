@@ -31,11 +31,11 @@ navigation:
   - text: Home
     url: /
   - text: Spotlight
-    url: /spotlight/
+    url: /spotlight
   - text: Learn
-    url: /learn/
+    url: /learn
   - text: Podcast
-    url: /podcast/
+    url: /podcast
   - text: About
     url: https://compileher.com/about
 
