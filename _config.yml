@@ -9,16 +9,16 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "compileHer Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "compileHer is a student organization founded at the University of Chicago that aims to engage young girl from all over through computer science education. This blog is our way of connecting people throughout the Covid-19 epidemic."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://compileher-blog.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -40,10 +40,10 @@ navigation:
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: compileher
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#FDEEEF'
 
 # Site footer
 footer:
