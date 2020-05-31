@@ -40,7 +40,7 @@ navigation:
     url: https://compileher.com/about
 
 # The shortname for your Disqus site to enable comments.
-disqus: compileher
+# disqus: DNE
 
 # Colors
 accent_color: '#cc7fa8'
