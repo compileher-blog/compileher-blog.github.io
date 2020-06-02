@@ -28,14 +28,10 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
+  - text: Blog
     url: /
-  - text: Spotlight
-    url: /spotlight
-  - text: Learn
-    url: /learn
-  - text: Podcast
-    url: /podcast
+  - text: Resources
+    url: /resources
   - text: About
     url: https://compileher.com/about
 
