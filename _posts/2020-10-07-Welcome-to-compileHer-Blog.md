@@ -4,7 +4,6 @@ title: "Welcome to compileHer's New Blog!"
 description: "This is a test post to introduce compileHer's new blog."
 date: 2020-10-07
 feature_image: images/compileherlogo.png
-author: _data/author2.json
 tags: [welcome]
 ---
 
