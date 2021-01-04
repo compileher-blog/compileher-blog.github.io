@@ -11,4 +11,6 @@ Welcome to **blogHer**, compileHer’s new blog and online resource hub. compile
 
 In the future, you can expect this site to showcase interviews of role models in STEM, entries by current UChicago CS students, tutorials about coding for all levels, spotlights of past events, and more! At the moment, we have the first episode of our podcast linked on our “Resources” page!
 
+<!--more-->
+
 Some other ways we are transitioning to a virtual environment include collaborating with [Code Your Chances](https://www.codeyourchances.com/) to teach coding workshops, hosting a virtual Google Hour of Code with professional software developers, and reformatting our annual Hackathon to be entirely online. For more information about these events, like us on [Facebook](https://www.facebook.com/compileHer/). And if you can’t make it to these, don’t worry: keep an eye out for blog posts debriefing them right here on blogHer!

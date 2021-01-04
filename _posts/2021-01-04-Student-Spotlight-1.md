@@ -7,7 +7,9 @@ feature_image: images/blogHer.jpg
 tags: [student-spotlight]
 ---
 
-**Happy 2021!** For blogHer's second post, we’d like to introduce one of the compileHer board members running the blog: UChicago second year Lily Ehsani! Here’s what she has to say:
+**Happy 2021!** For blogHer's second post, we’d like to introduce one of the compileHer board members running the blog: UChicago second year Lily Ehsani! Here’s what she has to say.
+
+<!--more-->
 
 “Hi friends! My name is Lily Ehsani, and I am a second year Computer Science major at UChicago. I’m originally from just outside of Philadelphia, PA. I attended public school for most of my life, electing to go to a Quaker school for grades 9–12. I had almost no exposure to computer science before coming to UChicago, which is one reason I love working with compileHer and showing younger girls how wonderful CS can be! I actually came into college thinking I wanted to major in physics or astrophysics. Growing up, I knew that I was talented and passionate about math, but I didn’t like the idea of just playing with numbers for the rest of my life (I now understand that this isn’t exactly what mathematicians do, but my point still stands!). I preferred to apply my knowledge, and I also really enjoyed being creative. I would make art, music, and just random creations that I thought looked cool or did cool things. Because of the combination of all of this, and a lifelong fascination with outer space, I thought that physics or astronomy would be the way to go.
 
