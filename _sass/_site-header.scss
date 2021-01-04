@@ -10,7 +10,7 @@
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  padding-bottom: 3.33333em;
+  padding-bottom: 2em;
   padding-top: 2.5em;
 }
 
@@ -76,13 +76,13 @@
 
   border-bottom: 1px solid _palette(border);
   font-family: _font(secondary);
-  font-size: 1em;
+  font-size: 1.15em;
   font-style: italic;
-  padding-bottom: 3.33333rem;
-  padding-top: 2.22222rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
   img.resize {
-    max-width:35%;
-    max-height:35%;
+    max-width:25%;
+    max-height:25%;
   }
 
   @media only screen and (max-width: 600px) {
