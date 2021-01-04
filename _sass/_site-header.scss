@@ -76,7 +76,15 @@
   font-style: italic;
   padding-bottom: 3.33333rem;
   padding-top: 2.22222rem;
+  img.resize {
+    max-width:10%;
+    max-height:10%;
+  }
 
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  
   @media only screen and (max-width: 600px) {
     font-size: 1.25em;
     padding-bottom: 2.8125rem;
@@ -85,11 +93,6 @@
 
   p {
     margin-bottom: 0;
-  }
-
-  img.resize {
-    max-width:10%;
-    max-height:10%;
   }
 }
 
