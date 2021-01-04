@@ -12,10 +12,6 @@
   display: flex;
   padding-bottom: 3.33333em;
   padding-top: 2.5em;
-  img.resize {
-    max-width:10%;
-    max-height:10%;
-  }
 }
 
 .site-title {
@@ -89,6 +85,11 @@
 
   p {
     margin-bottom: 0;
+  }
+
+  img.resize {
+    max-width:10%;
+    max-height:10%;
   }
 }
 
