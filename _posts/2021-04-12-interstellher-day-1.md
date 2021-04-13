@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<interstell/Her> 2021 Was Out of This World! Day 1"
+title: "interstell/Her 2021 Was Out of This World! Day 1"
 description: "compileHer's first virtual Hackathon was a success."
 date: 2021-4-12
 feature_image: images/interstellher1.jpg
