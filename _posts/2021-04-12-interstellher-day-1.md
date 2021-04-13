@@ -9,6 +9,8 @@ tags: [welcome]
 
 compileHer’s first remote hackathon,<interstell/Her>, took place February 6th and 7th. This outer-space-themed celebration of science and technology involved 39 middle school girls and volunteer mentors.
 
+<!--more-->
+
 # Day 1
 
 ### Introduction
